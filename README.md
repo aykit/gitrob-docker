@@ -1,7 +1,7 @@
 Gitrob Docker How To
 ====================
 
-* Paste your twitter key to .gitrobrc
+* Paste your github API key to .gitrobrc
 * Got to the gitrob directory and build the gitrob container:
   `docker build -t "aykit/gitrob" .`
 * Build your postgres-container or use gitrob-psql:
